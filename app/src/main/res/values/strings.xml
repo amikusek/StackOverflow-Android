@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">StackOverflow</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- MainActivity views -->
+    <string name="tap_to_search">Tap at the search icon and type query</string>
+    <string name="no_results">No results</string>
+    <string name="no_more_items">There are no more questions available</string>
+
+    <!-- QuestionView -->
+    <string name="votes">votes</string>
+    <string name="answers">answers</string>
+
+    <!-- QuestionAdapter -->
+    <string name="active">active %1$s</string>
+    <string name="answers_count">%1$d answers</string>
+    <string name="asked_date">asked %1s</string>
+</resources>
